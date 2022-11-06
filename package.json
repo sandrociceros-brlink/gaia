@@ -21,7 +21,7 @@
     "jquery": "^3.6.0",
     "marked": "^2.1.2",
     "messenger-hubspot": "^1.5.0",
-    "vue": "^2.6.14",
+    "vue": "^2.7.13",
     "vue-form-wizard": "^0.8.4",
     "vue-multiselect": "^2.1.6",
     "vue-router": "^3.5.2",
